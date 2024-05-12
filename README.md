@@ -8,3 +8,4 @@ Ini adalah projek kelompok kami, dengan beranggotakan:
 Projek ini dibuat untuk memenuhi tugas dari mata kuliah Kecerdasan Buatan, dengan isi sebagai berikut:
 1. Data dalam bentuk CSV
 2. Code Python Jupiter Notebook (ipynb) algoritma Logika Fuzzy
+3. Code dalam bentuk file python biasa (py)
